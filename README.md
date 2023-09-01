@@ -1,7 +1,40 @@
-<a href='https://postimg.cc/QVbNJ3pc' target='_blank'><img src='https://i.postimg.cc/QVbNJ3pc/zen.png' border='0' alt='zen'/></a>
+
+# ![Logo](https://i.postimg.cc/jdVWKq23/zen.png)
 
 
-<a href='https://postimg.cc/4HgxW4dT' target='_blank'><img src='https://i.postimg.cc/4HgxW4dT/Group-17.png' border='0' alt='Group-17'/></a>
+![Logo](https://i.postimg.cc/qqt6MzHg/Group-17.png)
 
 
-Zen - The most advanced LiquidBounce fork with the best bypasses for Grim.
+## Authors
+
+- [@Bhoppings](https://www.github.com/Bhoppings)
+- [@ChezLinkZ](https://www.github.com/ChezLinkZ)
+
+
+
+## Roadmap
+
+- The best grim bypasses ever out of ANY client.
+
+    - Grim Fly
+
+    - Grim Speed
+
+    - Grim NoSlow
+
+    - Grim AutoBlock
+
+    - Grim Timer
+
+    - Grim Criticals
+
+    - Grim FastBreak
+
+    - Grim Fucker
+
+    - Grim Teleport
+
+    - Grim LegitReach
+
+    - Grim Velocity
+
